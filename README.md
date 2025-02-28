@@ -13,11 +13,11 @@ The dataset consists of gene expression levels from 78 samples across 10 randoml
 predictive modeling. Additionally, a class variable is included, indicating whether a sample corresponds to invasive (label 1) or noninvasive (label 2) cancer. 
 The dataset provides a foundation for performing statistical and machine learning analyses to distinguish between these cancer types.
 
-**1.Statistical Analysis of Gene Variability
+**1.Statistical Analysis of Gene Variability**
 
-1.(a) Variance, Covariance, and Correlation Matrix
+**1.(a) Variance, Covariance, and Correlation Matrix**
 
-Variance Matrix**
+**Variance Matrix**
 
 The variance matrix provides insights into the variability of each gene. A variance value close to zero indicates minimal variability, whereas higher values show increased fluctuations.
 
