@@ -157,7 +157,7 @@ For the factor my.gene.subset$class (cancer type), the Pillai’s trace statisti
 The box plot shows substantial overlap in label 1 and label 2 which clearly shows that there is o significant difference in the expression levels of the random subset of 10 genes between invasive (label 1) and noninvasive (label 2) cancer. Hence, H0 Null hypothesis is accepted.
 
 
-**Using the first and second principal component to illustrate, if there is a difference between invasive and noninvasive cancer.**
+**Using the first and second principal component to illustrate if there is a difference between invasive and noninvasive cancer.**
 
 In order to compare the first and second principal components, we are extracting the coefficients of the first principal component (PC1) and second principal component (PC2). These coefficients are the contributions of each variable to their respective principal component. The positive coefficient represents positive correlation and the negative coefficient represents negative correlation.
 
